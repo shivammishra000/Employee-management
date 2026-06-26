@@ -1,3 +1,4 @@
+
 # Employee Management System
 
 A full-stack **Employee Management System** built using **React.js**, **Node.js**, **Express.js**, and **MongoDB**. The application provides secure user authentication and allows users to perform complete employee management operations, including adding, viewing, updating, and deleting employee records through an intuitive and responsive interface.
